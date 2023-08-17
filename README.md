@@ -42,7 +42,7 @@
 </p>
 
 
-## Use To Code
+## Languages
 ![Java](https://img.shields.io/badge/Java-F0DB4F?style=for-the-badge&labelColor=black&logo=java&logoColor=grey)
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&labelColor=black&logo=c++&logoColor=F0DB4F)
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)
