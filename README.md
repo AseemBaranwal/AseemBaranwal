@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://aseem-baranwal.azurewebsites.net/">Aseem Baranwal</a></b>
+                <b><a href="https://aseem-baranwal.azurewebsites.net" target="_blank">Aseem Baranwal</a></b>
         </samp>
 </h3>
 
@@ -65,13 +65,13 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/akashkumar916">
+  <a href="https://github.com/AseemBaranwal">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AseemBaranwal&theme=radical&border=7F3FBF&background=0D1117" alt="Aseem GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/akashkumar916">
+  <a href="https://github.com/AseemBaranwal">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AseemBaranwal&theme=radical" alt="Aseem GitHub Contribution"/>
   </a>
 </p>
