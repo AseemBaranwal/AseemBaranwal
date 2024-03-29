@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a href="https://aseem-baranwal.azurewebsites.net" target="_blank">Aseem Baranwal</a></b>
+                <b><a href="https://aseem-b.vercel.app/" target="_blank">Aseem Baranwal</a></b>
         </samp>
 </h3>
 
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
- <a href="https://aseem-baranwal.azurewebsites.net" target="blank">
+ <a href="https://aseem-b.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="akash" />
  </a>
  <a href="https://linkedin.com/in/aseembaranwal" target="_blank">
