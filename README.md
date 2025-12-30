@@ -36,7 +36,7 @@
   
  ✌️ &emsp; Problem-solver, backend & full-stack developer, Data Science Enthusiast <br/><br/>
  ❤️ &emsp; Building full-stack applications and intgrating them with machine learning<br/><br/>
- 📧 &emsp; Feel free to reach me out at a.baranwal@ufl.edu<br/><br/>
+ 📧 &emsp; Feel free to reach me out at infiseem@gmail.com<br/><br/>
 
 
 </p>
